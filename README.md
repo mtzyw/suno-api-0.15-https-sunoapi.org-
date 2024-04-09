@@ -1,4 +1,4 @@
-# suno-api
+# 提供标准的suno api服务。0.15一次
 提供标准的suno api服务。0.15一次
 欢迎注册免费送suno api额度 免费调用 
 
